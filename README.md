@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <b>`Corinthans`</b>
+  <b>`Corinthians`</b>
   <samp>
       <br>
       Hi there! I'm <b>Gabriel Veneruci</b>
