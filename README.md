@@ -43,12 +43,7 @@
   <br>
 
 <div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Nkauvo&show_icons=true&count_private=true&rank_icon=github&theme=shadow_red&font=Iosevka"
-  />
+
   <img
     height=165
     align="center"
