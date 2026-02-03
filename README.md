@@ -81,7 +81,6 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:gabrielveneruci@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000)](https://www.instagram.com/ga.veneruci)
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=FF0000)](https://discord.com/users/534566121240526849)
   
   
 </div>
