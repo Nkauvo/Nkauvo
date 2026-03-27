@@ -48,7 +48,8 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkauvo&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"
+    src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bf8ad711-bedf-4d2c-8f10-3dce6fb13a36" />
+"
   />
   <br>
   <br>
